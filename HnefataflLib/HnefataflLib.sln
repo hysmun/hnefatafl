@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HnefataflLib", "HnefataflLib\HnefataflLib.csproj", "{4AE57C83-5C5C-4685-8D58-BC260A65ABD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HnefatatlConsole", "..\HnefatatlConsole\HnefatatlConsole.csproj", "{470EF9A1-6758-4694-B337-F95FB83998CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4AE57C83-5C5C-4685-8D58-BC260A65ABD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AE57C83-5C5C-4685-8D58-BC260A65ABD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AE57C83-5C5C-4685-8D58-BC260A65ABD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470EF9A1-6758-4694-B337-F95FB83998CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470EF9A1-6758-4694-B337-F95FB83998CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470EF9A1-6758-4694-B337-F95FB83998CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470EF9A1-6758-4694-B337-F95FB83998CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
